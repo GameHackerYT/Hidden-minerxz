@@ -1,0 +1,68 @@
+.garantia{
+    font-size: 16px;
+}
+.diagnostic{
+    font-size: 16px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.optimization{
+    font-size: 16px;
+}
+.Buttons{
+    display: flex;
+    justify-content: flex-end;
+}
+.fon{
+    background-image: url('pc.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+.block{
+    color: #FFFFFF;
+    text-align: left;
+    margin-left: 60px;
+    margin-right: 5%;
+    padding-top:  50px;
+    text-align: left;
+}
+p1{
+    color: azure;
+    
+}
+img {
+        margin-top: -10px; 
+        width: 150px;
+}
+.otzov{
+    text-align: center;
+}
+.optimization{
+    text-align: center;
+    float:left;
+    margin: 7px 7px 7px 0; 
+
+}
+.rekavery{
+    text-align: center;
+    float:left;
+    margin: 7px 7px 7px 0; 
+}
+.update{
+    text-align: center;
+}
+.remontcpu{
+    text-align: center;
+    float:left;
+    margin: 7px 7px 7px 0; 
+}
+.remoot{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.zaivka{
+margin-left: 50%;
+}
